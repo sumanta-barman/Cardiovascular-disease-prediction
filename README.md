@@ -1,1 +1,1 @@
-# Cardiovascular-disease-predictiopn
+# Cardiovascular-disease-prediction
